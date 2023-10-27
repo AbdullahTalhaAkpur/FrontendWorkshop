@@ -1,3 +1,5 @@
+## Süre sınırı olduğu için ve Etkinlik kısmında görülen problem yüzünden proje yarıda kaldı TECHCAREER  ekibine yine de ilgilendikleri ve bu zevkli Workshop imkanını bizlere sundukları için teşekkürler.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
